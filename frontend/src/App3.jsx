@@ -1,3 +1,5 @@
+// Entry point for the footer module
+
 import Footer from "@/components/Sections/Footer"
 
 function App3() {

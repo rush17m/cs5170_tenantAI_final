@@ -4,10 +4,7 @@
 
 import React from "react";
 import styled from "styled-components";
-// Components
-import FullButton from "@/components/Sections/Buttons/FullButton";
 // Assets
-import HeaderImage from "@/assets/img/header-img.png";
 import HumanRightImage from "@/assets/img/Housing-is-a-human-right.png";
 import QuotesIcon from "@/assets/svg/Quotes";
 import Dots from "@/assets/svg/Dots";
