@@ -1,7 +1,0 @@
-Header = Header
-Services = Resources
-Projects = Files (hidden)
-Blog = Settings
-Pricing = *nothing* (hidden)
-Contact = AI Chat
-Footer = Footer
