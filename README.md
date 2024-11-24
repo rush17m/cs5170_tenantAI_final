@@ -1,6 +1,8 @@
 # Tenant.AI Chatbot
 
-This repository contains the code for a webapp that aims to provide guidance to residents of Massachusetts about any tenanycy related concerns they may have. It features a **Retrieval-Augmented Generation (RAG) full-stack chatbot application** built with **Python, FastAPI, Redis, React and OpenAI's GPT-4o.** The chatbot specializes in answering questions about tenancy rights of the residents of Massachusetts.
+This repository contains the code for a webapp that aims to provide guidance to residents of Massachusetts about any tenancy related concerns they may have. It features a **Retrieval-Augmented Generation (RAG) full-stack chatbot application** built with **Python, FastAPI, Redis, React and OpenAI's GPT-4o.** The chatbot specializes in answering questions about tenancy rights of the residents of Massachusetts.
+
+The webapp also includes some official resources about tenants laws, rights and help centers that are available to the residents of Massachusetts. 
 
 The chatbot has been heavily inspired by a similar [project](https://github.com/ruizguille/tech-trends-chatbot)
 
