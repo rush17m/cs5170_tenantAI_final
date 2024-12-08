@@ -55,35 +55,8 @@ export default function TopNavbar() {
                 AI Chat
               </Link>
             </li>
-            {/* <li className="semiBold font15 pointer">
-              <Link activeClass="active" style={{ padding: "10px 15px" }} to="projects" spy={true} smooth={true} offset={-80}>
-                Files
-              </Link>
-            </li> */}
-            {/* <li className="semiBold font15 pointer">
-              <Link activeClass="active" style={{ padding: "10px 15px" }} to="blog" spy={true} smooth={true} offset={-80}>
-                Settings
-              </Link>
-            </li> */}
-            {/* <li className="semiBold font15 pointer">
-              <Link activeClass="active" style={{ padding: "10px 15px" }} to="pricing" spy={true} smooth={true} offset={-80}>
-                Pricing
-              </Link>
-            </li> */}
 
           </UlWrapper>
-          {/* <UlWrapperRight className="flexNullCenter">
-            <li className="semiBold font15 pointer">
-              <a href="/" style={{ padding: "10px 30px 10px 0" }}>
-                Log in
-              </a>
-            </li>
-            <li className="semiBold font15 pointer flexCenter">
-              <a href="/" className="radius8 lightBg" style={{ padding: "10px 15px" }}>
-                Get Started
-              </a>
-            </li>
-          </UlWrapperRight> */}
         </NavInner>
       </Wrapper>
     </>

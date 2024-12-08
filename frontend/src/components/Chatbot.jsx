@@ -1,3 +1,7 @@
+/**
+ * AI chatbot component
+ */
+
 import { useState } from 'react';
 import { useImmer } from 'use-immer';
 import api from '@/api';

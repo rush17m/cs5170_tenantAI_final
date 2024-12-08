@@ -1,9 +1,13 @@
+/**
+ * App to handle chat bot
+ */
+
 import Chatbot from '@/components/Chatbot';
 
 function App() {
 
   return (
-    <div>
+    <div aria-label="Chatbot">
       <Chatbot />
     </div>
   );

@@ -1,3 +1,7 @@
+/**
+ * Component to capture user input into the chat
+ */
+
 import useAutosize from '@/hooks/useAutosize';
 import sendIcon from '@/assets/images/send.svg';
 

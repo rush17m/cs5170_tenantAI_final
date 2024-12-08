@@ -2,7 +2,7 @@ import * as React from "react";
 
 function SvgComponent(props) {
   return (
-    <svg xmlns="http://www.w3.org/2000/svg" width={35.459} height={43.42} viewBox="0 0 35.459 43.42" {...props}>
+    <svg xmlns="http://www.w3.org/2000/svg" width={35.459} height={43.42} viewBox="0 0 35.459 43.42" aria-label="Roller icon" {...props}>
       <g data-name="Group 70">
         <path
           data-name="Path 121"

@@ -1,3 +1,7 @@
+/**
+ * App for footer
+ */
+
 import Footer from "@/components/Sections/Footer"
 
 function App3() {

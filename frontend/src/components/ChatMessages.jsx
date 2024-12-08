@@ -1,3 +1,7 @@
+/**
+ * Renders list of messages in the chat
+ */
+
 import Markdown from 'react-markdown';
 import useAutoScroll from '@/hooks/useAutoScroll';
 import Spinner from '@/components/Spinner';

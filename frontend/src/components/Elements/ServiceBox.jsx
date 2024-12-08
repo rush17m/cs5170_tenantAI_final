@@ -1,3 +1,7 @@
+/**
+ * Section containing user-accessible services/resources
+ */
+
 import React from "react";
 import styled from "styled-components";
 // Assets
