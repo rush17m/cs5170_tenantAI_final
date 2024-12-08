@@ -1,8 +1,3 @@
-/**
- * Contains code to display the different resouces in the resources tab
- */
-
-
 import React from "react";
 import styled from "styled-components";
 // Assets

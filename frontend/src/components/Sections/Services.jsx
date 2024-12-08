@@ -29,21 +29,14 @@ export default function Services() {
               <ServiceBox
                 icon="monitor"
                 title="UPTOCODE"
-                subtitle="Get help solving problems that need to be repaired with your housing. Send a letter to your landlord, call an inspector, or get help from a judge."
-              />
-            </ServiceBoxWrapper>
-            <ServiceBoxWrapper>
-              <ServiceBox
-                icon="browser"
-                title="Other housing forms"
-                subtitle="Ask the court to order your landlord to fix bad housing conditions, get a temporary order, stay an eviction, or remove a default."
+                subtitle="Get help solving problems that need to be repaired with your housing. Send a letter to your landlord, call an inspector, or get help from a judge. https://interviews.gbls.org/run/uptocode"
               />
             </ServiceBoxWrapper>
             <ServiceBoxWrapper>
               <ServiceBox
                 icon="printer"
                 title="Get legal help"
-                subtitle="Use the Mass Legal Resource Finder to find free or low cost help from legal aid organizations that serve your city or town." />
+                subtitle="Use the Mass Legal Resource Finder to find free or low cost help from legal aid organizations that serve your city or town. https://masslrf.org/en/home" />
             </ServiceBoxWrapper>
           </ServiceBoxRow>
         </div>
@@ -62,8 +55,8 @@ const ServiceBoxRow = styled.div`
   }
 `;
 const ServiceBoxWrapper = styled.div`
-  width: 20%;
-  margin-right: 5%;
+  width: 30%;
+  margin-right: 15%;
   padding: 80px 0;
   @media (max-width: 860px) {
     width: 100%;

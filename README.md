@@ -6,11 +6,9 @@ The webapp also includes some official resources about tenants laws, rights and 
 
 The chatbot has been heavily inspired by a similar [project](https://github.com/ruizguille/tech-trends-chatbot)
 
-## Video tour of the app is [here](https://www.loom.com/share/3f8ae5f9cfdc45daa8530db14a9a3a6e?sid=03453285-f185-475e-9860-3224d0e27c57)
+## Video tour of the app is [here](https://www.loom.com/share/5dfebe3d6871499792553e1f80599b70?sid=49c3b4b8-c869-4373-b087-b31a54e83472)
 
-## Design Justification for the project is [here](CS5170_mini_project4.pdf)
-
-## Mockup for the project is [here](Mockup.pdf)
+## Slides for the project is [here](TenantAI.pdf)
 
 
 

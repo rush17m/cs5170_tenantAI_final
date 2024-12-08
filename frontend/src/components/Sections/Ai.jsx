@@ -1,5 +1,5 @@
 /**
- * Contains code for Introduction to the chatbot
+ * Contains references to resources useful for tenants
  */
 
 

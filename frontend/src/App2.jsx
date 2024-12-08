@@ -1,5 +1,3 @@
-// Entry point for the main webapp
-
 import TopNavbar from "@/components/Nav/TopNavbar";
 import Header from "@/components/Sections/Header";
 import Services from "@/components/Sections/Services";

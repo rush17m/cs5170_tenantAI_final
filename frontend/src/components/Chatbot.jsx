@@ -60,7 +60,7 @@ function Chatbot() {
   return (
     <div className='relative grow flex flex-col gap-6 pt-6'>
       {messages.length === 0 && (
-        <div className='mt-3 font-urbanist text-primary-blue text-xl font-bold space-y-2'>
+        <div className='mt-3 font-urbanist text-primary-black text-xl font-bold space-y-2'>
           <p>Hello! <br/>
           <br/> I'm a Bot here to guide you through accessing information about Tenants Rights in Massachusetts. I am powered by the latest housing laws and reports from the Massachusetts Law Reform Institute.
           <br/> <br/> I can not provide legal advice and no attorney-client relationship has been formed. For legal advice, please consult with an attorney.
